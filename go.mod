@@ -19,17 +19,17 @@ require (
 	github.com/go-playground/universal-translator v0.17.0
 	github.com/go-playground/validator/v10 v10.4.0
 	github.com/gogo/googleapis v1.3.0 // indirect
-	github.com/gogo/protobuf v1.3.1
-	github.com/golang/groupcache v0.0.0-20200121045136-8c9f03a8e57e
-	github.com/golang/protobuf v1.4.2
-	github.com/golang/snappy v0.0.2
+	github.com/gogo/protobuf v1.3.2
+	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
+	github.com/golang/protobuf v1.5.2
+	github.com/golang/snappy v0.0.3
 	github.com/golangci/golangci-lint v1.31.0
 	github.com/google/addlicense v0.0.0-20200622132530-df58acafd6d5
-	github.com/google/go-cmp v0.5.2
+	github.com/google/go-cmp v0.5.6
 	github.com/google/go-github v17.0.0+incompatible
 	github.com/google/uuid v1.1.2
 	github.com/gorilla/mux v1.8.0
-	github.com/grpc-ecosystem/grpc-gateway v1.15.2
+	github.com/grpc-ecosystem/grpc-gateway v1.16.0
 	github.com/hashicorp/go-msgpack v0.5.5 // indirect
 	github.com/jaegertracing/jaeger v1.20.0
 	github.com/joshdk/go-junit v0.0.0-20200702055522-6efcf4050909
@@ -49,25 +49,25 @@ require (
 	github.com/shirou/gopsutil v2.20.6+incompatible
 	github.com/soheilhy/cmux v0.1.4
 	github.com/spaolacci/murmur3 v1.1.0 // indirect
-	github.com/spf13/cast v1.3.1
-	github.com/spf13/cobra v1.0.0
-	github.com/spf13/viper v1.7.1
-	github.com/stretchr/testify v1.6.1
+	github.com/spf13/cast v1.4.1
+	github.com/spf13/cobra v1.3.0
+	github.com/spf13/viper v1.10.0
+	github.com/stretchr/testify v1.7.0
 	github.com/tcnksm/ghr v0.13.0
 	github.com/tinylib/msgp v1.1.2
 	github.com/uber/jaeger-lib v2.4.0+incompatible
-	go.opencensus.io v0.22.4
+	go.opencensus.io v0.23.0
 	go.uber.org/atomic v1.7.0
-	go.uber.org/zap v1.16.0
-	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
-	golang.org/x/sys v0.0.0-20200821140526-fda516888d29
-	golang.org/x/text v0.3.3
-	golang.org/x/tools v0.0.0-20200822203824-307de81be3f4
-	google.golang.org/genproto v0.0.0-20200815001618-f69a88009b70
-	google.golang.org/grpc v1.32.0
+	go.uber.org/zap v1.17.0
+	golang.org/x/oauth2 v0.0.0-20211104180415-d3ed0bb246c8
+	golang.org/x/sys v0.0.0-20211205182925-97ca703d548d
+	golang.org/x/text v0.3.7
+	golang.org/x/tools v0.1.5
+	google.golang.org/genproto v0.0.0-20211208223120-3a66f561d7aa
+	google.golang.org/grpc v1.42.0
 	google.golang.org/grpc/examples v0.0.0-20200728065043-dfc0c05b2da9 // indirect
-	google.golang.org/protobuf v1.25.0
+	google.golang.org/protobuf v1.27.1
 	gopkg.in/square/go-jose.v2 v2.5.1 // indirect
-	gopkg.in/yaml.v2 v2.3.0
+	gopkg.in/yaml.v2 v2.4.0
 	honnef.co/go/tools v0.0.1-2020.1.5
 )
